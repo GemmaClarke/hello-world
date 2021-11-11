@@ -1,3 +1,3 @@
 # hello-world
 short-description
-I am student learning HTML, CSS and JavaScript
+I am a student learning HTML, CSS and JavaScript
